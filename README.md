@@ -1,6 +1,6 @@
 # Custom Recent Posts Blogger Widget
 
-The demo of this widget <a href="http://jsfiddle.net/uikithemes/qpy3thwz/1/" target"_blank">jsfiddle</a>
+The demo of this widget <a href="http://jsfiddle.net/uikithemes/qpy3thwz/1/" target="_blank">jsfiddle</a>
 <h4>Step 1 : The HTML MarkUp :</h4>
 <pre>
 &lt;div class=&quot;widget-content&quot;&gt;
