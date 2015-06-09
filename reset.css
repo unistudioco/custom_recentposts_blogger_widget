@@ -1,0 +1,13 @@
+
+body{
+    direction: ltr;
+    color:#888;
+    font:400 12px Fontawesome,'Roboto Slab',tahoma;
+    line-height:25px;
+}
+ul,li{
+    list-style:none;
+}
+a{
+    text-decoration:none;
+}
