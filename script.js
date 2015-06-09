@@ -8,9 +8,9 @@ $(function() {
         url: '/feeds/posts/summary?alt=json-in-script&max-results='+ numPosts +'',
         type: 'get',
         dataType: 'jsonp',
-        success: function(data) {
+        success: function(uikithemes) {
             var link, title, item = '',
-                content = data.feed.entry;
+                content = uikithemes.feed.entry;
             if (content !== undefined) {
                 item = "<ul class='recent-posts'>";
                 for (var i = 0; i < content.length; i++) {
