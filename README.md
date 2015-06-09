@@ -153,7 +153,7 @@ $(function() {
 });
 </pre>
 <br/>
-Now just click on save template.
-That's it and you well done!
-I hope this widget help you to make your blog more functionality.
-by Oussama Bouyardane
+Now just click on save template.<br/>
+That's it and you well done!<br/>
+I hope this widget help you to make your blog more functionality.<br/>
+by <b>Oussama Bouyardane</b>
