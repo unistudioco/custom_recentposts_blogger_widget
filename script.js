@@ -5,7 +5,7 @@ var numPosts = 3;
 
 $(function() {
     $.ajax({
-        url: '/feeds/posts/summary?alt=json-in-script&max-results='+ numPosts +'',
+        url: 'http://neone-theme.blogspot.com/feeds/posts/summary?alt=json-in-script&max-results='+ numPosts +'',
         type: 'get',
         dataType: 'jsonp',
         success: function(uikithemes) {
